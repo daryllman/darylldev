@@ -12,7 +12,8 @@ export default function Home() {
                     Hello! I&apos;m Daryll Wong 👋
                 </h1>
                 <p className="text-2xl md:text-3xl mb-12 text-black font-light max-w-3xl">
-                    Software Engineer crafting meaningful digital experiences.
+                    Impact-driven Software Engineer scaling systems that touch
+                    millions of lives.
                 </p>
                 <Link
                     href="http://daryllwong.notion.site?ref=daryll.dev"
