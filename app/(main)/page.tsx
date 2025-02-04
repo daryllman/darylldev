@@ -9,7 +9,7 @@ export default function Home() {
         <AuroraBackground>
             <div className="min-h-screen flex flex-col items-center justify-center px-4 text-center">
                 <h1 className="text-6xl md:text-8xl font-bold mb-6 text-black">
-                    Daryll Wong
+                    Hello! I&apos;m Daryll Wong 👋
                 </h1>
                 <p className="text-2xl md:text-3xl mb-12 text-black font-light max-w-3xl">
                     Software Engineer crafting meaningful digital experiences.
