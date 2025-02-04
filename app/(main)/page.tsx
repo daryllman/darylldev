@@ -15,7 +15,7 @@ export default function Home() {
                     Software Engineer crafting meaningful digital experiences.
                 </p>
                 <Link
-                    href="http://daryllwong.notion.site"
+                    href="http://daryllwong.notion.site?ref=daryll.dev"
                     target="_blank"
                     rel="noopener noreferrer"
                 >
